@@ -13,4 +13,4 @@ while(i<=num){
 let n=prompt("Enter n terms");
 let last=fibonacci(n);
 alert(last);
-//module.exports = fibonacci;
+module.exports = fibonacci;
